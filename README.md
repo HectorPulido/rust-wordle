@@ -3,19 +3,19 @@ This is a clone of the super popular Worlde game made in Rust using spanish anim
 
 ## Example
 Por favor ingresa tu animal 0/6: <br>
-> ardilla <br>
+\> ardilla <br>
 Rustle (ES) 0/6: <br>
 ⬜🟨⬜⬜🟨⬜🟨 <br>
 Por favor ingresa tu animal 1/6: <br>
-> tonina <br>
+\> tonina <br>
 Rustle (ES) 1/6: <br>
 🟨🟨🟩⬜🟨⬜🟨 <br>
 Por favor ingresa tu animal 2/6: <br>
-> nigaui <br>
+\> nigaui <br>
 Rustle (ES) 2/6: <br>
 🟩🟩🟨🟨🟨🟨🟨 <br>
 Por favor ingresa tu animal 3/6: <br>
-> ningaui <br>
+\> ningaui <br>
 Rustle (ES) 3/6: <br>
 🟩🟩🟩🟩🟩🟩🟩 <br>
 ¡Felicitaciones! <br>
@@ -31,15 +31,15 @@ Guess your animal and hit the enter button to submit. <br>
 After each guess, the color of the tiles will change to show how close your guess was to the word.<br>
 
 ## Example
-> tigre <br>
+\> tigre <br>
 🟩🔳🔳🔳🔳 <br>
 The letter **t** is in the word and in the correct spot. <br>
 
-> perro <br>
+\> perro <br>
 🔳🟨🔳🔳 <br>
 The letter **e** is in the word but in the wrong spot. <br>
 
-> gato <br>
+\> gato <br>
 🔳🔳⬜🔳 <br>
 The letter **U** is not in the word in any spot. <br>
 
